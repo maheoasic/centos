@@ -59,7 +59,7 @@ nameserver 10.0.0.4
 Yum provided in CentOS 8 is: Dandified Yum - DNF
 It is a symbolic link to dnf
 
-# yum repolist
+\# yum repolist
 repo id                                        repo name
 AppStream                                      CentOS-8 - AppStream
 BaseOS                                         CentOS-8 - Base
